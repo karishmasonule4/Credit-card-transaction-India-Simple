@@ -3,7 +3,7 @@
 
 
 
-Project Description
+#Project Description
 
 The project focuse on analyzing in credit card transactions to understand consumer spending behavior,
 by studying transactions data across is cities, genders, card types, and expenditure categories
